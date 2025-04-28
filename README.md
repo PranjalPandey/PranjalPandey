@@ -1,5 +1,9 @@
-<h1 align="center">Hi there 👋, I'm Pranjal Pandey!</h1>
-<h3 align="center">Software Engineer | Full-Stack Developer | Machine LEarning Enthusiast</h3>
+<h1 align="center">Hi there <picture>
+  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b_1f3fb/512.webp" type="image/webp">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b_1f3fb/512.gif" alt="👋" width="32" height="32">
+</picture>
+, I'm Pranjal Pandey!</h1>
+<h3 align="center">Software Engineer | Full-Stack Developer | Machine Learning Enthusiast</h3>
 <h4 align="center">Based in Bengaluru, India 🇮🇳</h4>
 
 <p align="center">
